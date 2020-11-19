@@ -1,0 +1,22 @@
+{
+  "name": "auto-skeleton-cli",
+  "version": "0.0.1",
+  "main": "src/main.js",
+  "license": "MIT",
+  "bin": {
+    "ask": "./bin/ask",
+    "ask-cli": "./bin/ask"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "commander": "^6.2.0",
+    "fs-extra": "^9.0.1",
+    "log-symbols": "^4.0.0",
+    "ora": "^5.1.0",
+    "puppeteer": "^5.5.0"
+  },
+  "engines": {
+    "node": ">=v10.18.1"
+  }
+}
