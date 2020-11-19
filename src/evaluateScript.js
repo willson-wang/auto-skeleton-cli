@@ -130,7 +130,7 @@ function evaluateScript(...args) {
     }
 
     function createWrapDiv() {
-        return `<div style="position: fixed; width: 100%; height: 100%; background: #fff;">`
+        return `<div style="position: fixed; width: 100%; height: 100%; background: #fff; left: 0; top: 0">`
     }
 
     function createWrapEndDiv() {
