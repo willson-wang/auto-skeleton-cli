@@ -60,7 +60,7 @@ module.exports = {
 
 jd首页
 
-![jd](https://user-images.githubusercontent.com/20950813/99619315-28848d00-2a5e-11eb-883a-a573dbd9d997.gif)
+<img width="375" src="https://user-images.githubusercontent.com/20950813/99619315-28848d00-2a5e-11eb-883a-a573dbd9d997.gif">
 
 
 操作节点
@@ -97,9 +97,7 @@ module.exports = {
 
 jd排行榜
 
-![jd2](https://user-images.githubusercontent.com/20950813/99619335-33d7b880-2a5e-11eb-9186-6bf19d86a40b.gif)
-
-
+<img width="375" src="https://user-images.githubusercontent.com/20950813/99619335-33d7b880-2a5e-11eb-9186-6bf19d86a40b.gif" />
 
 ### Params
 
